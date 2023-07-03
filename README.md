@@ -21,7 +21,7 @@
 <a href="https://www.kaggle.com/waghmareprakashashok/code?isEditing=False&verifyPhone=False"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
 </a>
 
-
+<br>
 <br>
 <h3 align="left">Projects link :</h3>
 <a href="https://github.com/prakashwaghmare001/Fake-Bills-Detection-Project">Fake Bill Detection</a>
