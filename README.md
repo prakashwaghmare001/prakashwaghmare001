@@ -17,9 +17,10 @@
 
 <br>
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/prakash-waghmare-798017269/">Linkedin</a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/prakash-waghmare-798017269/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <br>
-<a href="https://www.kaggle.com/waghmareprakashashok/code?isEditing=False&verifyPhone=False">Kaggle</a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+<a href="https://www.kaggle.com/waghmareprakashashok/code?isEditing=False&verifyPhone=False"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+</a>
 
 
 <br>
