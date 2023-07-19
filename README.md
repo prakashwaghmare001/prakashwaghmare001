@@ -24,9 +24,10 @@
 <br>
 <br>
 <h3 align="left">Projects link :</h3>
-<a href="https://github.com/prakashwaghmare001/Resume-Classification/tree/main/Resume_Classifiaction_Project">Fake Bill Detection</a>
+<a href = "https://github.com/prakashwaghmare001/Fake-Bills-Detection-Project">Fake Bills Detection</a>
+<a href="https://github.com/prakashwaghmare001/Resume-Classification">Resume Classification Project</a>
 <br>
-<a href ="https://github.com/prakashwaghmare001/Resume-Classification/upload/main">Resume Classification</a>
+
 
 <br>
 <br>
