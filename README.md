@@ -26,7 +26,7 @@
 <h3 align="left">Projects link :</h3>
 <a href = "https://github.com/prakashwaghmare001/Fake-Bills-Detection-Project">Fake Bills Detection</a>
 <br>
-<a href="https://github.com/prakashwaghmare001/Resume-Classification">Resume Classification Project</a>
+<a href="https://github.com/prakashwaghmare001/Resume-Classification">Resume Classification</a>
 <br>
 
 
