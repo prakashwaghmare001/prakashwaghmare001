@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakash Waghmare</h1>
-<h3 align="center">Data Science/Analyst/Python-Learner</h3>
+<h3 align="center">Data Science/ Analyst/ Python-Learner</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
